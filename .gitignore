@@ -1,0 +1,15 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# Output files
+output/
+*.bin
+*.csv
+source.txt

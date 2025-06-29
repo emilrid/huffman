@@ -1,0 +1,1 @@
+This is an example text that is used to test the Huffman encoding written in Python.
