@@ -5,7 +5,7 @@ This project implements Huffman encoding and decoding in Python. It allows you t
 ### Example:
 ```bash
 python3 encode.py example.txt output/output.bin output/table.csv
-python3 decode.py output/output.bin output/table.csv decoded.md
+python3 decode.py output/output.bin output/table.csv decoded.txt
 ```
 or you can try:
 ```bash
